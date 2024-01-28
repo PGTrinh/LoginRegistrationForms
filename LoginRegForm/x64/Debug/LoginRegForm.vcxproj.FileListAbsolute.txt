@@ -1,0 +1,5 @@
+C:\Users\Raimond\Desktop\Jobs Seek\Projects\C++ LoginReg form\LoginRegForm\LoginRegForm\x64\Debug\LoginRegForm.vcxproj.AssemblyReference.cache
+C:\Users\Raimond\Desktop\Jobs Seek\Projects\C++ LoginReg form\LoginRegForm\LoginRegForm\x64\Debug\LoginRegForm.LoginForm.resources
+C:\Users\Raimond\Desktop\Jobs Seek\Projects\C++ LoginReg form\LoginRegForm\LoginRegForm\x64\Debug\LoginRegForm.vcxproj.GenerateResource.cache
+C:\Users\Raimond\Desktop\Jobs Seek\Projects\C++ LoginReg form\LoginRegForm\LoginRegForm\x64\Debug\LoginRegForm.MainForm.resources
+C:\Users\Raimond\Desktop\Jobs Seek\Projects\C++ LoginReg form\LoginRegForm\LoginRegForm\x64\Debug\LoginRegForm.RegisterForm.resources

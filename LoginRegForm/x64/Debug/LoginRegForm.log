@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Raimond\Desktop\Jobs Seek\Projects\C++ LoginReg form\LoginRegForm\LoginRegForm\main.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LoginRegForm.vcxproj -> C:\Users\Raimond\Desktop\Jobs Seek\Projects\C++ LoginReg form\LoginRegForm\x64\Debug\LoginRegForm.exe
